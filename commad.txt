@@ -5,3 +5,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/nadimul5555-netizen/nadim-first-git-and-github.git
 git push -u origin main
+i want to do something 
